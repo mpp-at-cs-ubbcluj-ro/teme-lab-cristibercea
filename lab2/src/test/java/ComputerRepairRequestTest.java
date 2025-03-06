@@ -18,6 +18,6 @@ public class ComputerRepairRequestTest {
     @Test
     @DisplayName("Test Example")
     public void exampleTest() {
-        assertEquals(2,2,"Numerele trebuie sa fie egale");
+
     }
 }
