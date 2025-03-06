@@ -29,7 +29,7 @@ jar{
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
     manifest{
-        attributes('MainClass':'ubb.scs.mpp.ComputerShopMain')
+        attributes('Main-Class':'ubb.scs.mpp.ComputerShopMain')
     }
     from{
         configurations.runtimeClasspath.collect{it.isDirectory()?it:zipTree(it)}
