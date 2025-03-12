@@ -1,0 +1,479 @@
+12 Mar 2025 20:56:28,209 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 20:56:28,217 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 20:56:28,218 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 20:56:28,218 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 20:56:28,218 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:56:28,219 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 20:56:28,219 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 20:56:28,230 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:56:28,231 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 20:56:50,724 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 20:56:50,734 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 20:56:50,735 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 20:56:50,735 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 20:56:50,735 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:56:50,735 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 20:56:50,736 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 20:56:50,745 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:56:50,745 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 20:59:21,524 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 20:59:21,532 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 20:59:21,533 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 20:59:21,533 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 20:59:21,533 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:59:21,533 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 20:59:21,534 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 20:59:21,543 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 20:59:21,544 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:04:43,424 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 21:04:43,437 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:04:43,437 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:04:43,438 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:04:43,438 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:04:43,438 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:04:43,438 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:04:43,448 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:04:43,449 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:06:25,878 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 21:06:25,886 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:06:25,887 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:06:25,887 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:06:25,888 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:06:25,888 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:06:25,888 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:06:25,897 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:06:25,898 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:11:42,417 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 21:11:42,424 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:11:42,425 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:11:42,425 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:11:42,425 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:11:42,426 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:11:42,426 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:11:42,435 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:11:42,436 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:12:00,933 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 21:12:00,941 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:12:00,942 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:12:00,942 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:12:00,942 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:12:00,942 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:12:00,943 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:12:00,952 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:12:00,952 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:14:48,238 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"} 
+12 Mar 2025 21:14:48,246 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:14:48,247 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:14:48,247 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:14:48,247 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:14:48,247 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:14:48,248 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:14:48,257 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/plane.db"
+12 Mar 2025 21:14:48,258 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:16:19,163 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"} 
+12 Mar 2025 21:16:19,172 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:16:19,173 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:16:19,173 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:16:19,173 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:16:19,174 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:16:19,174 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:16:19,184 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:16:19,185 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:18:58,421 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 21:18:58,429 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:18:58,430 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:18:58,430 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:18:58,430 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+12 Mar 2025 21:18:58,431 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:18:58,431 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:18:58,432 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 21:18:58,433 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:19:55,077 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"} 
+12 Mar 2025 21:19:55,085 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:19:55,086 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:19:55,086 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:19:55,086 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:19:55,086 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:19:55,087 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:19:55,096 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:19:55,097 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:27:45,543 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"} 
+12 Mar 2025 21:27:45,551 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:27:45,551 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:27:45,552 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:27:45,552 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:27:45,552 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:27:45,552 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:27:45,562 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:27:45,563 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:30:16,879 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:30:16,888 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:30:16,888 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:30:16,888 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:30:16,889 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:30:16,889 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:30:16,889 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:30:16,900 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:30:16,901 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:31:18,097 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:31:18,106 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:31:18,106 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:31:18,107 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:31:18,107 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:31:18,107 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:31:18,107 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:31:18,116 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:31:18,116 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:34:01,057 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:34:01,066 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:34:01,067 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:34:01,067 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:34:01,067 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:34:01,067 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:34:01,068 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:34:01,077 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:34:01,078 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:34:23,853 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:34:23,862 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:34:23,863 TRACE ubb.scs.mpp.JdbcUtils 49 getConnection - Enter
+12 Mar 2025 21:34:23,863 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:34:23,863 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:34:23,863 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:34:23,864 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:34:23,874 ERROR ubb.scs.mpp.JdbcUtils 42 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:34:23,874 TRACE ubb.scs.mpp.JdbcUtils 58 getConnection - Exit
+12 Mar 2025 21:35:24,140 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:35:24,158 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:35:24,158 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:35:24,159 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:35:24,159 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:35:24,159 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:35:24,159 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:35:24,175 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:35:24,176 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:35:54,605 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:35:54,625 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:35:54,626 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:35:54,626 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:35:54,626 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:35:54,626 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:35:54,626 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:37:11,032 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:26,998 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:40:27,006 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:40:27,006 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:40:27,007 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:40:27,007 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:27,007 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:40:27,007 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:40:27,017 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:27,018 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:40:48,399 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:40:48,407 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:40:48,407 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:40:48,407 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:40:48,407 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:48,412 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:40:48,413 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:40:48,422 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:48,422 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:40:55,332 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:40:55,340 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:40:55,340 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:40:55,340 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:40:55,341 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:55,341 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:40:55,341 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:40:55,350 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:40:55,351 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:41:07,959 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"} 
+12 Mar 2025 21:41:07,968 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:41:07,968 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:41:07,968 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:41:07,969 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:41:07,969 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:41:07,969 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:41:07,979 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\Uni work\An2Sem2\MPP\SqlLiteDBs\cars.db"
+12 Mar 2025 21:41:07,980 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:43:48,477 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db";} 
+12 Mar 2025 21:43:48,486 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:43:48,487 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:43:48,487 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:43:48,487 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db";
+12 Mar 2025 21:43:48,487 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:43:48,488 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:43:48,496 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db";
+12 Mar 2025 21:43:48,497 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:44:16,033 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:\\Uni work\\An2Sem2\\MPP\\SqlLiteDBs\\cars.db"} 
+12 Mar 2025 21:44:16,041 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:44:16,042 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:44:16,042 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:44:16,042 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:\\Uni work\\An2Sem2\\MPP\\SqlLiteDBs\\cars.db"
+12 Mar 2025 21:44:16,042 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:44:16,043 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:44:16,051 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:\\Uni work\\An2Sem2\\MPP\\SqlLiteDBs\\cars.db"
+12 Mar 2025 21:44:16,052 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:44:53,668 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBscars.db} 
+12 Mar 2025 21:44:53,677 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:44:53,677 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:44:53,677 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:44:53,678 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBscars.db
+12 Mar 2025 21:44:53,678 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:44:53,678 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:44:53,890 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:44:53,894 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:44:53,894 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:44:53,894 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:44:53,895 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:44:53,895 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:45:51,650 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:"Uni work"An2Sem2MPPSqlLiteDBscars.db} 
+12 Mar 2025 21:45:51,660 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:45:51,661 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:45:51,661 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:45:51,661 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:"Uni work"An2Sem2MPPSqlLiteDBscars.db
+12 Mar 2025 21:45:51,661 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:45:51,662 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:45:51,687 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'F:"Uni work"An2Sem2MPPSqlLiteDBscars.db': The filename, directory name, or volume label syntax is incorrect
+12 Mar 2025 21:45:51,687 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:46:16,657 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/"Uni work"/An2Sem2/MPP/SqlLiteDBs/cars.db} 
+12 Mar 2025 21:46:16,666 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:46:16,666 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:46:16,667 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:46:16,667 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/"Uni work"/An2Sem2/MPP/SqlLiteDBs/cars.db
+12 Mar 2025 21:46:16,667 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:46:16,667 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:46:16,689 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'F:/"Uni work"/An2Sem2/MPP/SqlLiteDBs/cars.db': 'F:\"Uni work"' does not exist
+12 Mar 2025 21:46:16,690 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:47:24,507 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBsplane.db} 
+12 Mar 2025 21:47:24,516 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:47:24,517 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:47:24,517 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:47:24,517 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBsplane.db
+12 Mar 2025 21:47:24,517 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:47:24,517 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:47:24,683 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:47:24,687 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:47:24,688 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:47:24,688 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:47:24,688 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:47:24,689 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:51:32,322 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBscars.db} 
+12 Mar 2025 21:51:32,331 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:51:32,331 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:51:32,332 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:51:32,332 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:Uni workAn2Sem2MPPSqlLiteDBscars.db
+12 Mar 2025 21:51:32,332 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:51:32,332 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:51:32,497 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:51:32,501 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:51:32,502 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:51:32,502 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:51:32,502 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:51:32,503 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:51:55,223 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"} 
+12 Mar 2025 21:51:55,232 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:51:55,232 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:51:55,232 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:51:55,232 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:51:55,233 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:51:55,233 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:51:55,242 ERROR ubb.scs.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:F:/Uni work/An2Sem2/MPP/SqlLiteDBs/cars.db"
+12 Mar 2025 21:51:55,243 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit
+12 Mar 2025 21:54:42,283 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:SqlLiteDBscars.db} 
+12 Mar 2025 21:54:42,292 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:54:42,292 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:54:42,293 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:54:42,293 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:SqlLiteDBscars.db
+12 Mar 2025 21:54:42,293 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:54:42,293 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:54:42,456 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:54:42,459 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:54:42,460 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:54:42,460 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:54:42,460 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:54:42,461 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:54:59,567 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:SqlLiteDBscars.db} 
+12 Mar 2025 21:54:59,575 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:54:59,575 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:54:59,576 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:54:59,576 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:SqlLiteDBscars.db
+12 Mar 2025 21:54:59,576 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:54:59,576 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:54:59,737 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6253c26)
+12 Mar 2025 21:54:59,740 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:54:59,741 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:54:59,741 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:54:59,741 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6253c26)
+12 Mar 2025 21:54:59,741 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:57:14,956 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:SqlLiteDBscars.db} 
+12 Mar 2025 21:57:14,964 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:57:14,964 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:57:14,965 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:57:14,965 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:SqlLiteDBscars.db
+12 Mar 2025 21:57:14,965 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:57:14,965 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:57:15,136 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6253c26)
+12 Mar 2025 21:57:15,139 ERROR ubb.scs.mpp.CarsDBRepository 47 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:57:15,140 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:57:15,140 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:57:15,141 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6253c26)
+12 Mar 2025 21:57:15,141 ERROR ubb.scs.mpp.CarsDBRepository 75 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+12 Mar 2025 21:57:54,622 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 21:57:54,630 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:57:54,631 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:57:54,631 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:57:54,631 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 21:57:54,631 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:57:54,631 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:57:54,799 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:57:54,809 TRACE ubb.scs.mpp.CarsDBRepository 45 add - Saved 1 instances.
+12 Mar 2025 21:57:54,810 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:57:54,810 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:57:54,811 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:59:05,859 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 21:59:05,868 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 21:59:05,868 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:59:05,869 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 21:59:05,869 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 21:59:05,869 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 21:59:05,869 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 21:59:06,033 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 21:59:06,045 TRACE ubb.scs.mpp.CarsDBRepository 45 add - Saved 1 instances.
+12 Mar 2025 21:59:06,046 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 21:59:06,046 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 21:59:06,046 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:00:25,614 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:00:25,622 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:00:25,623 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:00:25,623 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:00:25,623 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:00:25,623 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:00:25,623 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:00:25,787 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:00:25,799 TRACE ubb.scs.mpp.CarsDBRepository 45 add - Saved 1 instances.
+12 Mar 2025 22:00:25,800 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 22:00:25,800 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:00:25,800 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:01:01,649 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:01:01,657 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:01:01,658 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:01:01,658 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:01:01,658 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:01:01,658 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:01:01,659 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:01:01,830 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:01:01,842 TRACE ubb.scs.mpp.CarsDBRepository 45 add - Saved 1 instances.
+12 Mar 2025 22:01:01,843 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 22:01:01,843 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:01:01,843 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:01:26,310 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:01:26,318 TRACE ubb.scs.mpp.CarsDBRepository 38 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:01:26,319 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:01:26,319 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:01:26,320 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:01:26,320 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:01:26,320 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:01:26,488 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:01:26,500 TRACE ubb.scs.mpp.CarsDBRepository 45 add - Saved 1 instances.
+12 Mar 2025 22:01:26,500 TRACE ubb.scs.mpp.CarsDBRepository 59 findAll - Enter findAll()
+12 Mar 2025 22:01:26,501 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:01:26,501 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:07:38,205 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:07:38,214 TRACE ubb.scs.mpp.CarsDBRepository 73 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:07:38,215 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:07:38,215 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:07:38,215 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:07:38,215 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:07:38,215 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:07:38,382 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:07:38,393 TRACE ubb.scs.mpp.CarsDBRepository 80 add - Saved 1 instances.
+12 Mar 2025 22:07:38,394 TRACE ubb.scs.mpp.CarsDBRepository 94 findAll - Enter findAll()
+12 Mar 2025 22:07:38,394 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:07:38,395 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:07:38,397 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter findByManufacturer()
+12 Mar 2025 22:07:38,397 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:07:38,397 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:09:22,824 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:09:22,832 TRACE ubb.scs.mpp.CarsDBRepository 73 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:09:22,833 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:09:22,833 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:09:22,833 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:09:22,833 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:09:22,834 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:09:23,000 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:09:23,012 TRACE ubb.scs.mpp.CarsDBRepository 80 add - Saved 1 instances.
+12 Mar 2025 22:09:23,013 TRACE ubb.scs.mpp.CarsDBRepository 94 findAll - Enter findAll()
+12 Mar 2025 22:09:23,013 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:09:23,013 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:09:23,016 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter findByManufacturer()
+12 Mar 2025 22:09:23,016 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:09:23,016 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:09:23,017 TRACE ubb.scs.mpp.CarsDBRepository 41 findBetweenYears - Enter findBetweenYears()
+12 Mar 2025 22:09:23,017 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:09:23,017 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:38,247 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:18:38,255 TRACE ubb.scs.mpp.CarsDBRepository 73 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:18:38,256 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:38,256 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:18:38,256 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:18:38,256 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:18:38,257 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:18:38,428 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:38,440 TRACE ubb.scs.mpp.CarsDBRepository 80 add - Saved 1 instances.
+12 Mar 2025 22:18:38,441 TRACE ubb.scs.mpp.CarsDBRepository 106 findAll - Enter findAll()
+12 Mar 2025 22:18:38,441 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:38,442 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:38,444 TRACE ubb.scs.mpp.CarsDBRepository 89 update - Enter update task Id=0 Tesla Modificat Ok 1
+12 Mar 2025 22:18:38,444 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:38,444 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:38,449 TRACE ubb.scs.mpp.CarsDBRepository 97 update - Modified 1 instances.
+12 Mar 2025 22:18:38,450 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter findByManufacturer()
+12 Mar 2025 22:18:38,450 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:38,450 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:38,451 TRACE ubb.scs.mpp.CarsDBRepository 41 findBetweenYears - Enter findBetweenYears()
+12 Mar 2025 22:18:38,451 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:38,451 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:47,781 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:18:47,789 TRACE ubb.scs.mpp.CarsDBRepository 73 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:18:47,790 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:47,790 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:18:47,790 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:18:47,791 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:18:47,791 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:18:47,956 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:47,969 TRACE ubb.scs.mpp.CarsDBRepository 80 add - Saved 1 instances.
+12 Mar 2025 22:18:47,970 TRACE ubb.scs.mpp.CarsDBRepository 106 findAll - Enter findAll()
+12 Mar 2025 22:18:47,970 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:47,970 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:47,973 TRACE ubb.scs.mpp.CarsDBRepository 89 update - Enter update task Id=0 Tesla Modificat Ok 1
+12 Mar 2025 22:18:47,973 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:47,973 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:47,973 TRACE ubb.scs.mpp.CarsDBRepository 97 update - Modified 1 instances.
+12 Mar 2025 22:18:47,974 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter findByManufacturer()
+12 Mar 2025 22:18:47,974 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:47,974 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:18:47,975 TRACE ubb.scs.mpp.CarsDBRepository 41 findBetweenYears - Enter findBetweenYears()
+12 Mar 2025 22:18:47,975 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:18:47,975 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:20:38,701 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:F:/SqlLiteDBs/cars.db} 
+12 Mar 2025 22:20:38,709 TRACE ubb.scs.mpp.CarsDBRepository 73 add - Enter saving task Id=0 Tesla Model S 2019
+12 Mar 2025 22:20:38,710 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:20:38,710 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+12 Mar 2025 22:20:38,710 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:F:/SqlLiteDBs/cars.db
+12 Mar 2025 22:20:38,711 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+12 Mar 2025 22:20:38,711 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+12 Mar 2025 22:20:38,877 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:20:38,889 TRACE ubb.scs.mpp.CarsDBRepository 80 add - Saved 1 instances.
+12 Mar 2025 22:20:38,889 TRACE ubb.scs.mpp.CarsDBRepository 106 findAll - Enter findAll()
+12 Mar 2025 22:20:38,890 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:20:38,890 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:20:38,892 TRACE ubb.scs.mpp.CarsDBRepository 89 update - Enter update task Id=0 Tesla Modificat Ok 1
+12 Mar 2025 22:20:38,892 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:20:38,892 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:20:38,893 TRACE ubb.scs.mpp.CarsDBRepository 97 update - Modified 1 instances.
+12 Mar 2025 22:20:38,893 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter findByManufacturer()
+12 Mar 2025 22:20:38,893 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:20:38,893 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
+12 Mar 2025 22:20:38,894 TRACE ubb.scs.mpp.CarsDBRepository 41 findBetweenYears - Enter findBetweenYears()
+12 Mar 2025 22:20:38,894 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+12 Mar 2025 22:20:38,894 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@82de64a)
