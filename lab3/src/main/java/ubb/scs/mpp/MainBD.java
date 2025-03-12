@@ -20,6 +20,7 @@ public class MainBD {
         for(Car car:carRepo.findAll())
             System.out.println(car);
         String manufacturer="Tesla";
+        carRepo.update(9, new Car("Tesla","Modificat Ok", 1));
         System.out.println("Masinile produse de "+manufacturer);
         for(Car car:carRepo.findByManufacturer(manufacturer))
             System.out.println(car);

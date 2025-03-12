@@ -10,7 +10,7 @@ import java.util.Properties;
 
 public class CarsDBRepository implements CarRepository{
 
-    private JdbcUtils dbUtils;
+    private final JdbcUtils dbUtils;
 
 
 
@@ -85,8 +85,20 @@ public class CarsDBRepository implements CarRepository{
     }
 
     @Override
-    public void update(Integer integer, Car elem) {
-      //to do
+    public void update(Integer id, Car elem) {
+        logger.traceEntry("update task {}", elem);
+        Connection conn=dbUtils.getConnection();
+        try(PreparedStatement preparedStatement = conn.prepareStatement("update Masini set manufacturer=?,model=?,year=? where id=?")){
+            preparedStatement.setString(1,elem.getManufacturer());
+            preparedStatement.setString(2,elem.getModel());
+            preparedStatement.setInt(3,elem.getYear());
+            preparedStatement.setInt(4,id);
+            int result = preparedStatement.executeUpdate();
+            logger.trace("Modified {} instances.",result);
+        }catch (SQLException e) {
+            logger.error(e);
+            System.err.println("Error DB: "+e);
+        }
     }
 
     @Override
